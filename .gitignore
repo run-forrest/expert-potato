@@ -1,0 +1,17 @@
+.DS_Store
+.staging/
+
+# Non-learning image outputs already present beside this project
+outputs/
+
+# Private or bulky source media; commit transcripts and learning notes instead
+private/
+*.aiff
+*.m4a
+*.mp3
+*.wav
+
+# Local editor and temporary files
+*.swp
+*.tmp
+*~
